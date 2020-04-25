@@ -69,7 +69,7 @@ class RegisterFormState extends State<RegisterForm> {
   }
 
   Future getImage() async {
-    final image = await ImagePicker.pickImage(source: ImageSource.gallery);
+    final image = await ImagePicker.pickImage(source: ImageSource.camera);
     context.bloc<UserFormBloc>().add(ImageChanged(valueInput: image));
   }
 

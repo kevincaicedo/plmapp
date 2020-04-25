@@ -6,7 +6,7 @@ A new Flutter project.
 
 Best Pratice Flutter Project
 
-App example
+## App Example
 ![Alt text](https://raw.githubusercontent.com/kevincaicedo/plmapp/master/screenshots/app.gif "Title")
 
 ## Using
