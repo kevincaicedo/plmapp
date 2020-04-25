@@ -7,7 +7,7 @@ A new Flutter project.
 Best Pratice Flutter Project
 
 App example
-![Alt text](https://github.com/kevincaicedo/plmapp/screenshots/app.gif?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/kevincaicedo/plmapp/master/screenshots/app.gif "Title")
 
 ## Using
  - flutter_bloc -> Bloc patter Arquitecture
